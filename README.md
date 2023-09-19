@@ -1,6 +1,6 @@
 - 👋 Hi, I’m obul
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on Front-end Projects
 - 📫 How to reach me @obul63
 
