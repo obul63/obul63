@@ -1,7 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I’m obul<br>
-I'm currently working on Front-end Projects<br>I'm looking to collaborate on Front-end Projects<br>I'm looking for help with Reactjs and it's libraries for fast and modern websites<br>I'm currently learning Reactjs and new libaries and frame-works for front-end web development
+👋 Hi, I’m obul<br>I'm currently working on Front-end Projects<br>I'm looking to collaborate on Front-end Projects<br>I'm looking for help with Reactjs and it's libraries for fast and modern websites<br>I'm currently learning Reactjs and new libaries and frame-works for front-end web development
 
 
 ## 🌐 Socials:
